@@ -6,8 +6,7 @@ Repositori ini dibuat untuk memenuhi tugas mata kuliah Sistem Pakar semester 112
 2. Translation
 3. Rotation
 4. Projectives
-Code saya ada di file jupyter notebook
-
+- Code saya ada di file jupyter notebook
 ## Library
 Library yang digunakan adalah numpy, matplotlib dan string
 ```python
