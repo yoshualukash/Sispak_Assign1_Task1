@@ -18,7 +18,7 @@ import string
 Buat Persegi yang akan dijadikan objek transformasi
 ```python
 # 4 Buah Titik dengan lokasi berbeda
-a, b, c, d = (2, 2, 1), (2, -2, 1), (-2, -2, 1), (-2, 2, 1)
+a, b, c, d = (2, 2, 0), (2, -2, 1), (-2, -2, 2), (-2, 2, 3)
 
 # bentuk matriksnya
 A = np.array([a, b, c, d])
